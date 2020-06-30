@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tsuienpeng.github.io/</id>
     <title>Andrew_Blog</title>
-    <updated>2020-06-24T04:18:54.893Z</updated>
+    <updated>2020-06-30T07:03:37.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tsuienpeng.github.io/"/>
     <link rel="self" href="https://tsuienpeng.github.io/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2020, Andrew_Blog</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://tsuienpeng.github.io/post/hello-gridea/</id>
-        <link href="https://tsuienpeng.github.io/post/hello-gridea/">
+        <id>https://tsuienpeng.github.io/post/hello-gridea</id>
+        <link href="https://tsuienpeng.github.io/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
